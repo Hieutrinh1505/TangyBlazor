@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITvb8atSydK/fhBLcVtcGAKLO8Fyq5teno5LkZDG1XOJ1IIGABzmg3SO6iT9k+RX8McsvAu8d2fRt2aMoD/pJw==",
+  "success": true,
+  "projectFilePath": "/Users/hieutrinh/Desktop/Tangy/TangyWeb_Server/TangyWeb_Server.csproj",
+  "expectedPackageFiles": [
+    "/Users/hieutrinh/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.13/microsoft.netcore.app.host.osx-arm64.6.0.13.nupkg.sha512",
+    "/Users/hieutrinh/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
